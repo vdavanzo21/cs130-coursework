@@ -67,6 +67,12 @@ footer{
   color: #FFF;
 }
 
+aside > a  {
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+
 
 /************/
 /* Team CSS */
@@ -140,6 +146,7 @@ footer{
 }
 #con2 {
   background-color: #000e2f;
+  color: #FFF;
 }
 
 #shu1 {
